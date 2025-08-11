@@ -209,5 +209,5 @@ thresholds:
     action: CHALLENGE # Allow the traffic through
     challenge:
       algorithm: fast
-      difficulty: 3
-      report_as: 3
+      difficulty: 5
+      report_as: 5
