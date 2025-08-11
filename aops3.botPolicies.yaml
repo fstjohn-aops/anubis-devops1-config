@@ -116,7 +116,7 @@ impressum:
         position: absolute;
         top: 0;
         left: 0;
-        height: 100vh;
+        height: 15vh;
         width: 100vw;
         display: flex;
         justify-content: center;
@@ -125,7 +125,6 @@ impressum:
     >
       <div>
         <img src="https://assets.artofproblemsolving.com/images/aops-logo.svg" style="margin: 0; padding: 0;" alt="AoPS Logo" width="300" height="100">
-        <p style="margin: 0; padding: 0; font-size: 1.5rem;">Making sure you're not a bot...</p>
       </div>
     </h1>
 
@@ -209,5 +208,5 @@ thresholds:
     action: CHALLENGE # Allow the traffic through
     challenge:
       algorithm: metarefresh
-      difficulty: 5
-      report_as: 5
+      difficulty: 4
+      report_as: 4
