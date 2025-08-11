@@ -209,8 +209,8 @@ thresholds:
     action: CHALLENGE # Allow the traffic through
     challenge:
       algorithm: metarefresh
-      difficulty: 5
-      report_as: 5
+      difficulty: 3
+      report_as: 3
 
   # For clients that had some weight reduced through custom rules, give them a
   # lightweight challenge.
