@@ -71,12 +71,11 @@ impressum:
         display: flex;
         justify-content: center;
         align-items: center;
-        font-family: "Roboto", sans-serif;
       "
     >
       <div>
         <img src="https://assets.artofproblemsolving.com/images/aops-logo.svg" style="margin: 0; padding: 0;" alt="AoPS Logo" width="300" height="100">
-        <p>Making sure you're not a robot...</p>
+        <p style="font-family: 'Roboto', sans-serif !important;">Making sure you're not a robot...</p>
       </div>
     </h1>
 
