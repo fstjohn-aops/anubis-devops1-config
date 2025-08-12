@@ -62,7 +62,7 @@ impressum:
         margin: 0;
         font-size: 40px;
         background-color: #eee;
-        color: #000080;
+        color: #002070;
         position: absolute;
         top: 0;
         left: 0;
@@ -75,7 +75,7 @@ impressum:
     >
       <div>
         <img src="https://assets.artofproblemsolving.com/images/aops-logo.svg" style="margin: 0; padding: 0;" alt="AoPS Logo" width="300" height="100">
-        <p style="font-family: 'Roboto', sans-serif !important;">Making sure you're not a robot...</p>
+        <p style="font-family: 'Roboto', sans-serif !important; font-size: 1.5rem;">Making sure you're not a robot...</p>
       </div>
     </h1>
 
